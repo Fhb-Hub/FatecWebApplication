@@ -1,0 +1,275 @@
+﻿/*Trabalhe conosco*/
+.fonte {
+    font-size:17px;
+}
+
+
+/*Relacionados*/
+.animate-up:hover 
+{
+    background-color: grey;
+    cursor: pointer;
+    width: 115%;
+}
+
+.borda {
+    padding: 25px;
+    background-color: rgba(194, 194, 194, 0.75);
+}
+
+.pad {
+    padding: 60px;
+}
+
+
+/* DEFENIÇÕES GLOBAIS DE ESTILO */
+
+* {
+    -webkit-box-sizing: border-box !important; /*Safari/Chrome */
+    -moz-box-sizing: border-box !important; /*Firefox  */
+    box-sizing: border-box !important; /* IE8+/ Opera */
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: left;
+    line-height: 150%;
+    color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+    margin: 0;
+    line-height: 100%;
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 18px;
+}
+
+/* determina a largura maxima da janela de conteúdo */
+.content-wrapper {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.box-border {
+    border: 1px solid #c2c2c2;
+    border-radius: 5px;
+}
+
+.box-padding-20 {
+    padding: 20px;
+}
+
+.box-padding-10 {
+    padding: 10px;
+}
+
+.margin-left-20 {
+    margin-left: 20px;
+}
+
+.margin-right-20 {
+    margin-right: 20px;
+}
+
+.margin-top-60 {
+    margin-top: 60px;
+}
+.margin-top-20{
+    margin-top: 20px:
+}
+
+/**************************************** 
+			RECURSOS PARA LAYOUT EM COLUNAS 
+			obtido do pacote BootStrap
+*****************************************/
+/* Linha para criar as colunas */
+.row {
+    display: flex;
+    display: -webkit-flex; /* Safari */
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+/* colunas (até 12)*/
+.col-12 {
+    width: 100%;
+}
+
+.col-11 {
+    width: 91.66666666%;
+}
+
+.col-10 {
+    width: 83.3333333%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-8 {
+    width: 66.66666667%;
+}
+
+.col-7 {
+    width: 58.33333333%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-5 {
+    width: 41.66666667%;
+}
+
+.col-4 {
+    width: 33.33333333%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-2 {
+    width: 16.66666667%;
+}
+
+.col-1 {
+    width: 8.33333333%;
+}
+
+/* DEFINIÇÕES GERAIS */
+
+.back-red {
+    background-color: red;
+}
+
+.back-Green {
+    background-color: green;
+}
+
+.back-blue {
+    background-color: blue;
+}
+
+
+/* Este estilo de link será aplicado a todos os links dos forms */
+a {
+    color: #355bc6;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #8565ba;
+    }
+
+/*******************************************************************
+CONTROLES DE FORMULÁRIOS
+********************************************************************/
+
+label {
+    margin-top: 20px;
+    display: block;
+    max-width: 100%;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea,
+select {
+    border: 1px solid #d7d7d7;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.8);
+    color: #555;
+    font-size: 16px;
+    display: block;
+    padding: 10px;
+    resize: none;
+    width: 100%;
+    outline: none;
+}
+
+input[type="submit"],
+input[type="button"],
+button {
+    border: 1px solid #c0c0c0;
+    border-radius: 4px;
+    color: white;
+    background-color: #355bc6;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+    input[type="submit"]:hover,
+    input[type="button"]:hover,
+    button:hover {
+        background-color: #293b90;
+        color: white;
+    }
+
+
+/**********************************************
+			LAYOUT DO PROJETO ADS 2020
+***********************************************/
+
+.cabecalho {
+    height: 61px;
+    border-bottom: 1px solid #c2c2c2;
+    position: relative;
+}
+
+.logomarca {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+    .logomarca img {
+        height: 59px;
+    }
+
+.menu {
+    height: 30px;
+    position: absolute;
+    bottom: 5px;
+    right: 20px;
+}
+
+    .menu a {
+        font-size: 16px;
+        color: #333333;
+        margin-left: 4px;
+        margin-right: 4px;
+        padding: 2px;
+        text-decoration: none;
+    }
+
+        .menu a:hover {
+            color: black;
+            padding: 2px;
+            border-bottom: 3px solid #000000;
+        }
+
+
+.conteudo {
+    min-height: 1200px;
+}
+
+.rodape {
+    height: 300px;
+    background-color: #eeeeee;
+    padding: 20px;
+}

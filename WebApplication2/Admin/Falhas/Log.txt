@@ -1,0 +1,160 @@
+Data: 19/11/2020 17:41:33
+Mensagem: Exceção do tipo 'System.Web.HttpUnhandledException' foi acionada.
+SOURCE          : System.Web
+TARGETSITE      : HandleError
+TRACE           :    em System.Web.UI.Page.HandleError(Exception e)
+   em System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest()
+   em System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   em System.Web.UI.Page.ProcessRequest(HttpContext context)
+   em ASP.trabalheconosco_aspx.ProcessRequest(HttpContext context)
+   em System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 86.0
+Qual o IP       : ::1
+--------------------------------------------------------------
+Data: 19/11/2020 17:41:57
+Mensagem: Exceção do tipo 'System.Web.HttpUnhandledException' foi acionada.
+SOURCE          : System.Web
+TARGETSITE      : HandleError
+TRACE           :    em System.Web.UI.Page.HandleError(Exception e)
+   em System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest()
+   em System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   em System.Web.UI.Page.ProcessRequest(HttpContext context)
+   em ASP.trabalheconosco_aspx.ProcessRequest(HttpContext context)
+   em System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 86.0
+Qual o IP       : ::1
+--------------------------------------------------------------
+Data: 19/11/2020 17:42:30
+Mensagem: Exceção do tipo 'System.Web.HttpUnhandledException' foi acionada.
+SOURCE          : System.Web
+TARGETSITE      : HandleError
+TRACE           :    em System.Web.UI.Page.HandleError(Exception e)
+   em System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest()
+   em System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   em System.Web.UI.Page.ProcessRequest(HttpContext context)
+   em ASP.trabalheconosco_aspx.ProcessRequest(HttpContext context)
+   em System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 86.0
+Qual o IP       : ::1
+--------------------------------------------------------------
+Data: 19/11/2020 17:43:09
+Mensagem: Exceção do tipo 'System.Web.HttpUnhandledException' foi acionada.
+SOURCE          : System.Web
+TARGETSITE      : HandleError
+TRACE           :    em System.Web.UI.Page.HandleError(Exception e)
+   em System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest()
+   em System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   em System.Web.UI.Page.ProcessRequest(HttpContext context)
+   em ASP.trabalheconosco_aspx.ProcessRequest(HttpContext context)
+   em System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 86.0
+Qual o IP       : ::1
+--------------------------------------------------------------
+Data: 19/11/2020 17:43:55
+Mensagem: Exceção do tipo 'System.Web.HttpUnhandledException' foi acionada.
+SOURCE          : System.Web
+TARGETSITE      : HandleError
+TRACE           :    em System.Web.UI.Page.HandleError(Exception e)
+   em System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest()
+   em System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   em System.Web.UI.Page.ProcessRequest(HttpContext context)
+   em ASP.trabalheconosco_aspx.ProcessRequest(HttpContext context)
+   em System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 86.0
+Qual o IP       : ::1
+--------------------------------------------------------------
+Data: 24/11/2020 08:20:19
+Mensagem: Exceção do tipo 'System.Web.HttpUnhandledException' foi acionada.
+SOURCE          : System.Web
+TARGETSITE      : HandleError
+TRACE           :    em System.Web.UI.Page.HandleError(Exception e)
+   em System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   em System.Web.UI.Page.ProcessRequest()
+   em System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   em System.Web.UI.Page.ProcessRequest(HttpContext context)
+   em ASP.trabalheconosco_aspx.ProcessRequest(HttpContext context)
+   em System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 87.0
+Qual o IP       : ::1
+--------------------------------------------------------------
+Data: 24/11/2020 09:47:45
+Mensagem: Marca do servidor não está formada corretamente.
+SOURCE          : System.Web
+TARGETSITE      : ParseString
+TRACE           :    em System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   em System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   em System.Web.UI.TemplateParser.ParseInternal()
+   em System.Web.UI.TemplateParser.Parse()
+   em System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   em System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   em System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   em System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   em System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   em System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   em System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   em System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   em System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   em System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   em System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   em System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 87.0
+Qual o IP       : ::1
+--------------------------------------------------------------
+Data: 24/11/2020 10:10:21
+Mensagem: Marca do servidor não está formada corretamente.
+SOURCE          : System.Web
+TARGETSITE      : ParseString
+TRACE           :    em System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   em System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   em System.Web.UI.TemplateParser.ParseInternal()
+   em System.Web.UI.TemplateParser.Parse()
+   em System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   em System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   em System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   em System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   em System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   em System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   em System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   em System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   em System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   em System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   em System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   em System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   em System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   em System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+Qual o Browser  : Chrome
+Versão Browser  : 87.0
+Qual o IP       : ::1
+--------------------------------------------------------------

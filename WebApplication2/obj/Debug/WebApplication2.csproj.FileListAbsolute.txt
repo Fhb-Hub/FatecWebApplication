@@ -1,0 +1,228 @@
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\LIB_ADSM.dll
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\LIB_ADSM.pdb
+C:\Users\Usuario\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\LIB_ADSM.xml
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\LIB_ADSM.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\LIB_ADSM.pdb
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\LIB_ADSM.xml
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\dioli\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\LIB_ADSM.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\LIB_ADSM.pdb
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\LIB_ADSM.xml
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\AppDatabase.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\MySql.Data.dll
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\AppDatabase.pdb
+C:\Users\dioli\Google Drive\Fatec\+DISCIPLINAS\+AULAS\2020-2\C#\Manha\WebApplication2\WebApplication2\bin\AppDatabase.xml
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\fehb2\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\fehb2\Desktop\Fatec\Segundo semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\fehb2\Desktop\Fatec\2 semestre\LP2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

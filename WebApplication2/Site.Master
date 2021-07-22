@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication2.Site" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <title></title>
+   <asp:ContentPlaceHolder ID="head" runat="server">
+   </asp:ContentPlaceHolder>
+   <!-- NOSSO ARQUIVO DE ESTILO -->
+   <link href="Css/StyleSheet.css" rel="stylesheet" />
+   <!-- BIBLIOTECAS PARA O SLIDER -->
+   <!-- http://flexslider.woothemes.com/thumbnail-slider.html -->
+   <link href="Js/flexslider.css" rel="stylesheet" />
+   <!-- esta orderm tem que ser seguida -->
+   <script src="Js/jquery-1.7.2.min.js"></script>
+   <script src="Js/flexslider.min.js"></script>
+</head>
+<body>
+   <form id="form1" runat="server">
+
+      <div class="content-wrapper">
+         <!-- CABEÇALHO -->
+         <div class="cabecalho">
+            <!-- LOGOMARCA -->
+            <div class="logomarca">
+               <asp:Image ID="LogoMarca" runat="server" ImageUrl="~/Images/marca1.png" />
+            </div>
+
+            <!-- MENU -->
+            <div class="menu">
+               <asp:Label ID="Usuario" Font-Size="12px" ForeColor="#ff9900" runat="server" CssClass="margin-right-20" ></asp:Label>
+               <asp:HyperLink ID="Home" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
+               <asp:Label ID="Label1" runat="server">&nbsp;&nbsp;</asp:Label>
+               <asp:HyperLink ID="Sobre" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+                <asp:Label ID="Label2" runat="server">&nbsp;&nbsp;</asp:Label>
+               <asp:HyperLink ID="TrabalheConosco" NavigateUrl="~/TrabalheConosco.aspx" runat="server">Trabalhe Conosco</asp:HyperLink>
+                <asp:Label ID="Label3" runat="server">&nbsp;&nbsp;</asp:Label>
+               <asp:HyperLink ID="Relacionados" NavigateUrl="~/Relacionados.aspx" runat="server">Relacionados</asp:HyperLink>
+                <asp:Label ID="Label4" runat="server">&nbsp;&nbsp;</asp:Label>
+               <asp:HyperLink ID="Contato" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
+                <asp:Label ID="L1" runat="server">&nbsp;&nbsp;</asp:Label>
+               <asp:HyperLink ID="Usuarios" Visible="false" NavigateUrl="~/Admin/Usuarios.aspx" runat="server">Usuários</asp:HyperLink> 
+                <asp:Label ID="L2" runat="server">&nbsp;&nbsp;</asp:Label>
+               <asp:HyperLink ID="ExibirExcecoes" Visible="false" NavigateUrl="~/Admin/ExibirExcecoes.aspx" runat="server">Exceções</asp:HyperLink>   
+                <asp:Label ID="Label7" runat="server">&nbsp;&nbsp;</asp:Label>
+               <asp:HyperLink ID="Login"  NavigateUrl="~/Login.aspx" runat="server" Font-Bold="True" ForeColor="#355bc6">Entrar</asp:HyperLink>
+               <asp:HyperLink ID="Logout" Visible="false" NavigateUrl="~/Logout.aspx" ForeColor="red" runat="server" Font-Bold="True">Sair</asp:HyperLink>
+            </div>
+         </div>
+         <!-- ONDE SERÃO INSERIDOS OS FORMULÁRIOS DE CONTEÚDO -->
+         <div class="conteudo">
+            <asp:ContentPlaceHolder ID="Content" runat="server">
+            </asp:ContentPlaceHolder>
+         </div>
+      </div>
+
+      <!-- RODAPÉ -->
+      <div class="rodape">
+         <div class="content-wrapper">
+            <p style="font-size: 12px;">(c) 2020 - Analise e Desenvolvimento de Sistemas - Turma Manhã</p>
+         </div>
+      </div>
+   </form>
+</body>
+
+</html>
