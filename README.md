@@ -1,6 +1,6 @@
 # FatecWebApplication
 
-Aplicação Web sobre a instituição FATEC Americana desenvolvida em C#. 
+Aplicação Web sobre a instituição FATEC Americana desenvolvida em C# e ASP.NET. 
 
 Este projeto foi desenvolvido nas aulas de Linguagem de Programação II ministradas pelo professor Diógenes de Olivera.  
 
